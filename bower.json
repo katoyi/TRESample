@@ -1,0 +1,10 @@
+{
+    "name": "Task Runner Explorer Sample",
+    "version": "1.0.0",
+    "description": "Sample for using TRE",
+    "dependencies": {
+        "angular-resource": "",
+        "angular-route": ""
+    },
+    "author": "KADJINA Toyi"
+}
