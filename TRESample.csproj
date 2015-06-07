@@ -74,14 +74,17 @@
     <Content Include="css\css.css" />
     <Content Include="gruntfile.js" />
     <Content Include="index.html" />
+    <Content Include="scripts\frameworks\angular-resource.js" />
+    <Content Include="scripts\frameworks\angular-route.js" />
+    <Content Include="scripts\frameworks\angular.js" />
+    <Content Include="scripts\SampleTRE.js" />
+    <Content Include="scripts\SampleTRE.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="scripts\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
