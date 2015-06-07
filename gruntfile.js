@@ -52,7 +52,7 @@
             },
             dist: {
                 // the files to concatenate
-                src: ['scripts/frameworks/**/*.js'],
+                src: ['scripts/code/*.js'],
                 // the location of the resulting JS file
                 dest: 'scripts/<%= pkg.name %>.js'
             }

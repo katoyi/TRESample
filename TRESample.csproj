@@ -74,11 +74,12 @@
     <Content Include="css\css.css" />
     <Content Include="gruntfile.js" />
     <Content Include="index.html" />
+    <Content Include="scripts\code\appController.js" />
     <Content Include="scripts\frameworks\angular-resource.js" />
     <Content Include="scripts\frameworks\angular-route.js" />
     <Content Include="scripts\frameworks\angular.js" />
     <Content Include="scripts\SampleTRE.js" />
-    <Content Include="scripts\SampleTRE.min.js" />
+    <Content Include="views\hello.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
